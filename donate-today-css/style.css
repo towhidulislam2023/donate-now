@@ -16,7 +16,7 @@
 }
 
 .header {
-    height: 85vh;
+    height: 95vh;
     width: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.664)), url(../images/donation2.jpg);
     background-repeat: no-repeat;
