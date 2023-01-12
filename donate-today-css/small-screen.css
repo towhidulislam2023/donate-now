@@ -57,4 +57,57 @@
     .donate-plan-disccipation {
         width: 100%;
     }
+
+    /* depend box -1 */
+    .depend {
+        height: fit-content;
+    }
+
+    .depend-boxes {
+        flex-direction: column-reverse;
+        padding: 14px 17px;
+        gap: 16px;
+    }
+
+    .dep-box-description {
+        width: 100%;
+    }
+
+    .dep-box-image {
+        width: 359px;
+        height: 277px;
+    }
+
+    .d-image {
+        width: 90%;
+        height: 274px;
+        /* margin-left: 10%; */
+    }
+
+    /* depend box -2  */
+    .ff-ll {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* get my update  */
+    .m-up-bo {
+        width: 100%;
+        padding: 20px;
+
+    }
+
+    .i-email {
+        width: 256px;
+    }
+
+    .update-box {
+        width: 345px;
+    }
+
+    .i-btn-s {
+        width: 59px;
+        font-size: 10px;
+
+    }
 }
